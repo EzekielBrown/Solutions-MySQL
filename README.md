@@ -1,3 +1,3 @@
 # Solutions MySQL
-Class: DAT502
+Class: DAT502 <br>
 All the solutions to the MySQL questions.
